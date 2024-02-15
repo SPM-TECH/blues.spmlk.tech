@@ -822,7 +822,7 @@
   position: absolute;
   top: -13px;
   left: 0px;
-  background: #fff0f2;
+  background: #eaeef0;
   opacity: 1;
   z-index: -1;
 }
@@ -16548,13 +16548,13 @@ body.out .mouse-pointer {
   font-weight: 500;
   padding: 11px 32px;
   font-family: 'Poppins', sans-serif;
-  border: 2px solid #fbdbc2;
-  color: #f38836 !important;
+  border: 2px solid #b7d5e7;
+  color: #0077BE !important;
 }
 
 .news-eight .theme-btn:hover {
-  border-color: #f38836;
-  color: #f38836 !important;
+  border-color: #b7d5e7;
+  color: #0077BE !important;
 }
 
 .news-eight .theme-btn:before{
