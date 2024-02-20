@@ -187,7 +187,7 @@
 }
 
 .g_color_2{
-	background: -webkit-linear-gradient(45deg, #41a0ea, #f18e95 75%);
+	background: -webkit-linear-gradient(45deg, #41a0ea, #41a0ea 75%);
 }
 
 .sec-title-two span{
@@ -3369,7 +3369,7 @@
 }
 
 .blog-sidebar .post-widget .post .post-thumb{
-	background: #0077BE;
+	background: #fff;
 }
 
 .blog-sidebar .post-widget .post h5 a:hover{
