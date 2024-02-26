@@ -9690,7 +9690,6 @@ div[class^="bubble-"] {
 .content_block_18 .content-box .tab-btns li{
   position: relative;
   display: inline-block;
-  float: left;
   font-size: 15px;
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
